@@ -1,0 +1,23 @@
+{
+  "name": "@yunkuangao/koishi-plugin-tianxing",
+  "description": "天行数据接口",
+  "author": "yun <yun@yka.moe>",
+  "version": "1.0.7",
+  "main": "lib/index.js",
+  "typings": "lib/index.d.ts",
+  "files": [
+    "lib",
+    "dist"
+  ],
+  "homepage": "https://github.com/yunkuangao/tianxing",
+  "license": "MIT",
+  "scripts": {},
+  "keywords": [
+    "chatbot",
+    "koishi",
+    "plugin"
+  ],
+  "peerDependencies": {
+    "koishi": "^4.13.6"
+  }
+}
